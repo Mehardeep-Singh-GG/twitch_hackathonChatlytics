@@ -1,0 +1,11 @@
+google.generator.ai  # for AI and chat processing
+ast  # abstract syntax tree for parsing
+speechrecognition  # to process audio data
+socket  # for real-time chat socket connection
+time  # for time-based operations
+threading  # to handle concurrent processes
+os  # for operating system interactions
+json  # for JSON data handling
+re  # for regular expressions
+matplotlib  # for data visualization
+tkinter  # for GUI elements
